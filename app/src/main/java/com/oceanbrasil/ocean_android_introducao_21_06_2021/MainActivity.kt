@@ -18,5 +18,17 @@ class MainActivity : AppCompatActivity() {
         btEnviar.setOnClickListener {
             tvResultado.text = etNome.text.toString()
         }
+
+        /*
+        Desafios:
+        1 - Criar um botão "Limpar" que, ao clicado, limpada o texto do EditText
+        e volta o TextView para o valor inicial
+        2 - Criar um EditText para o sobrenome e, ao clicar no Botão enviar, exibe
+        no TextView do resultado o nome e o sobrenome juntos.
+
+        Para praticar
+        - Faça os desafios em um projeto novo, completamente do zero, para treinar
+        tudo o que foi visto em aula.
+        */
     }
 }
