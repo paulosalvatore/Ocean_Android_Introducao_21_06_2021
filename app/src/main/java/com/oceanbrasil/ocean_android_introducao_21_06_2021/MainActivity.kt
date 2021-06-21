@@ -16,7 +16,7 @@ class MainActivity : AppCompatActivity() {
         val etNome = findViewById<EditText>(R.id.etNome)
 
         btEnviar.setOnClickListener {
-            tvResultado.text = "Paulo Salvatore"
+            tvResultado.text = etNome.text.toString()
         }
     }
 }
