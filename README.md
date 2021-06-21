@@ -9,3 +9,7 @@
 2. Criar um botão "Limpar" que, ao clicado, limpada o texto do EditText e volta o TextView para o valor inicial.
 
 3. Criar um EditText para o sobrenome e, ao clicar no Botão enviar, exibe no TextView do resultado o nome e o sobrenome juntos.
+
+
+
+**Referência do vídeo:** https://www.youtube.com/watch?v=Ghx79FLbsNA
